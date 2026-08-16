@@ -1,5 +1,5 @@
 #DATE: 10/08/2026
-#Author: Vedant Meharkure
+#Author: Gunit Singh Hora
 import random
 ROWS = 3
 COLS = 9
